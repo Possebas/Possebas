@@ -48,12 +48,20 @@
       height="40"
     />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Glossary/CSS"
     target="_blank" >
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg"
-      alt="javascript"
+      alt="css"
       width="40"
       height="40"
     />
@@ -63,9 +71,17 @@
     target="_blank" >
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg"
-      alt="javascript"
+      alt="html5"
       width="40"
       height="40"
+    />
+  </a>
+    <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="50"
+      height="50"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank">
@@ -76,36 +92,42 @@
       height="40"
     />
   </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img
+      alt="reactnative"
+      src="reactnative.png"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.android.com/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
-      alt="react"
+      alt="android"
       width="40"
       height="40"
     />
   </a>
-  
+  <a href="https://www.java.com/en/" target="_blank">
+    <img
+      alt="java"
+      src="java.png"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img
+      src="spring.jpg"
+      alt="spring"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      alt="git"
       width="40"
       height="40"
     />
