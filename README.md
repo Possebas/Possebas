@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="500" src="signature.jpg" />
+    <img align="center" width="450" src="signature.jpg" />
   </a>
   <a href="#">
-    <img align="center" width="500" src="rocket.gif" />
+    <img align="center" width="450" src="rocket.gif" />
 	
   </a>
   <h6 align="right">by Stephanie Willekens</h6>
@@ -20,12 +20,12 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=possebas&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=possebas&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
     />
   </a>
 </p>
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi, I'm Gustavo Possebon <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
 
@@ -103,7 +103,7 @@
   <a href="https://www.java.com/en/" target="_blank">
     <img
       alt="java"
-      src="java.png"
+      src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
       width="50"
       height="50"
     />
@@ -120,6 +120,22 @@
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg"
       alt="git"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-plain-wordmark.svg"
+      alt="intellij"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
       width="50"
       height="50"
     />
