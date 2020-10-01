@@ -97,7 +97,7 @@
       alt="reactnative"
       src="reactnative.jpg"
       width="50"
-      height="50"
+      height="70"
     />
   </a>
   <a href="https://www.android.com/" target="_blank">
