@@ -6,8 +6,9 @@
     <img align="center" width="400" src="rocket.gif" />
 	
   </a>
+  <p align="right">by Stephanie Willekens</p>
 </p>
-<p align="right">by Stephanie Willekens</p>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
