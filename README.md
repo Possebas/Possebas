@@ -92,14 +92,6 @@
       height="50"
     />
   </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img
-      alt="reactnative"
-      src="reactnative.jpg"
-      width="50"
-      height="70"
-    />
-  </a>
   <a href="https://www.android.com/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
