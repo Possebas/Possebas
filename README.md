@@ -6,7 +6,7 @@
     <img align="center" width="400" src="rocket.gif" />
 	
   </a>
-  <p align="right">by Stephanie Willekens</p>
+  <h6 align="right">by Stephanie Willekens</h6>
 </p>
 
 <p align="center">
