@@ -120,8 +120,8 @@
     <img
       src="spring.png"
       alt="spring"
-      width="50"
-      height="50"
+      width="70"
+      height="70"
     />
   </a>
   <a href="https://git-scm.com/" target="_blank">
