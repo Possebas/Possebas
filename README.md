@@ -26,7 +26,7 @@
 </p>
 
 ## Hi, I'm Gustavo Possebon <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Possebas)
+
 ### Abstract
 
 - 👨‍💻 I'm not currently working, but I'm looking 👀.
@@ -145,3 +145,4 @@
 ### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/gustavopossebon/">LinkedIn</a>.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Possebas)
