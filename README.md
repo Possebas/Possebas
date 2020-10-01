@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="300" src="signature.jpg" />
+    <img align="center" width="350" src="signature.jpg" />
   </a>
   <a href="#">
-    <img align="center" width="300" src="rocket.gif" />
+    <img align="center" width="350" src="rocket.gif" />
 	
   </a>
   <h6 align="right">by Stephanie Willekens</h6>
