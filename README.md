@@ -118,7 +118,7 @@
   </a>
   <a href="https://spring.io/" target="_blank">
     <img
-      src="spring.png"
+      src="spring.jpg"
       alt="spring"
       width="70"
       height="70"
