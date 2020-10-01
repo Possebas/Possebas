@@ -1,12 +1,12 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="320" src="signature.jpg" />
+    <img align="center" width="400" src="signature.jpg" />
   </a>
   <a href="#">
     <img align="center" width="400" src="rocket.gif" />
-	<p>by Stephanie Willekens</p>
+	
   </a>
-  
+  <p>by Stephanie Willekens</p>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 <br/>
 
-<p align="center">
+<p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank" >
