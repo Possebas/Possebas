@@ -95,7 +95,7 @@
   <a href="https://reactnative.dev/" target="_blank">
     <img
       alt="reactnative"
-      src="reactnative.png"
+      src="reactnative.jpg"
       width="50"
       height="50"
     />
