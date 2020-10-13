@@ -23,9 +23,6 @@
       src="https://github-readme-stats.vercel.app/api?username=possebas&count_private=true&show_icons=true&custom_title=Github%20Status&theme=radical"
     />
   </a>
-  <a href="https://dev.to/possebas">
-	<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gustavo Possebon's DEV Profile" height="30" width="30">
-	</a>
 </p>
 
 ## Hi, I'm Gustavo Possebon <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
@@ -150,4 +147,5 @@
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/gustavopossebon/">LinkedIn</a>.
 
 ### ![visitors](https://visitor-badge.glitch.me/badge?page_id=Possebas)
+### [![Gustavo Possebon's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/possebas)
 
