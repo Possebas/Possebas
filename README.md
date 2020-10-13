@@ -145,7 +145,7 @@
 ### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/gustavopossebon/">LinkedIn</a>.
+- 👨🏻‍💻 And connect dev.to <a href="https://dev.to/possebas"> </a>
 
 ### ![visitors](https://visitor-badge.glitch.me/badge?page_id=Possebas)
-### [![Gustavo Possebon's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/possebas)
 
