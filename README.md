@@ -29,7 +29,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm not currently working, but I'm looking 👀.
+- 👨‍💻 I'm working at Philips.
 - 🌱 Learning more about and studying: **Mobile and Data Science**.
 - 💙 Interests: 🎮 ,  📚 and ✈️.
 
