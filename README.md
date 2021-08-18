@@ -36,6 +36,6 @@
 ### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/gustavopossebon/">LinkedIn</a>.
-- 👨🏻‍💻 And visit my website <a href="https:/www.gustavopossebon.com">link</a>
+- 👨🏻‍💻 And visit my website <a href="https://www.gustavopossebon.com">link</a>
 
 ### ![visitors](https://visitor-badge.glitch.me/badge?page_id=Possebas)
